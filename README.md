@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Zuzanna Szalaty 👋
 
-<!--
-**szalatyzuzanna/szalatyzuzanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Odoo Developer passionate about building scalable ERP solutions, automating business processes, and contributing to the Open Source ecosystem.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Odoo Developer with experience from **Odoo 12** to **Odoo 19**
+- 🚀 Specialized in custom module development and SaaS platforms
+- 🤝 Active contributor to the **Odoo Community Association (OCA)**
+- ⚡ Focused on clean architecture, maintainable code, and performance
+
+## 🛠️ Expertise
+
+### Odoo
+
+- Odoo 12 · 13 · 14 · 15 · 16 · 17 · 18 · 19
+- OCA Modules
+- OWL
+- QWeb
+- XML
+- Portal Development
+- Website & eCommerce
+- Reports
+- ORM
+- Controllers
+- Security & Access Rights
+- PostgreSQL
+- Multi-company
+- Docker Deployments
+
+### Programming Languages
+
+- Python
+- JavaScript
+- Java
+- C
+- C++
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- Docker
+- Linux
+- PostgreSQL
+- REST APIs
+- Jenkins
+- CI/CD
+
+## 🌱 Interests
+
+- ERP Architecture
+- Open Source
+- SaaS Platforms
+- Software Performance
+- AI-assisted Development
+
+---
+
+> *"Building maintainable software that solves real business problems."*
+```
