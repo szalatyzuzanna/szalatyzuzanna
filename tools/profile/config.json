@@ -1,0 +1,24 @@
+{
+  "user": "szalatyzuzanna",
+  "name": "Zuzanna Szalaty",
+  "role": "Odoo developer · OCA contributor · @BinhexTeam",
+  "tagline": "Building maintainable software that solves real business problems.",
+  "latest_pulls": 6,
+  "featured": [
+    {
+      "repo": "OCA/barcode-interface",
+      "text": "A scanner-first Barcode app for Odoo: the scanner core, stock operations, the device camera, GS1 labels, purchases, scrap, quality checks and inventory counts.",
+      "tags": ["Python", "OWL"]
+    },
+    {
+      "repo": "OCA/business-requirement",
+      "text": "Migrated the Business Requirement suite to Odoo 18 and added RICE prioritisation: reach, impact, confidence and effort.",
+      "tags": ["Python", "QWeb"]
+    },
+    {
+      "repo": "OCA/vertical-construction",
+      "text": "bc3_importer: imports construction budgets from BC3 files, the standard exchange format in Spain.",
+      "tags": ["Python"]
+    }
+  ]
+}

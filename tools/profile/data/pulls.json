@@ -1,0 +1,226 @@
+[
+ {
+  "title": "[18.0][FIX] barcode_stock: keep the locations of the line picked",
+  "url": "https://github.com/OCA/barcode-interface/pull/18",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-26",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][FIX] barcode_stock: open a move reserved against a lot with that lot chosen",
+  "url": "https://github.com/OCA/barcode-interface/pull/17",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-23",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][ADD] barcode_stock_quality: run a reception's quality inspections from the Barcode app",
+  "url": "https://github.com/OCA/barcode-interface/pull/16",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-19",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][ADD] barcode_inventory: count stock from the Barcode app",
+  "url": "https://github.com/OCA/barcode-interface/pull/15",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-16",
+  "state": "open",
+  "merged": false
+ },
+ {
+  "title": "[18.0][FIX] barcode_stock: open the first group the list shows",
+  "url": "https://github.com/OCA/barcode-interface/pull/14",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-15",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][ADD] barcode_stock_partner_delivery_zone: group and filter operations by delivery zone",
+  "url": "https://github.com/OCA/barcode-interface/pull/13",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-15",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][ADD] barcode_purchase: create purchase orders from the Barcode app",
+  "url": "https://github.com/OCA/barcode-interface/pull/12",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-15",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][ADD] barcode_scrap: scrap goods from the Barcode app",
+  "url": "https://github.com/OCA/barcode-interface/pull/11",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-14",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][ADD] barcode_camera: scan with the device camera in the Barcode app",
+  "url": "https://github.com/OCA/barcode-interface/pull/10",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-14",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[ADD] barcode_gs1_stock: the GS1 measure as the quantity, in the product's unit",
+  "url": "https://github.com/OCA/barcode-interface/pull/9",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-09",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[ADD] barcode_gs1: GS1 barcode parsing for the Barcode app",
+  "url": "https://github.com/OCA/barcode-interface/pull/8",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-10-09",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][FIX] marketing_campaign_budget: correct author name",
+  "url": "https://github.com/OCA/social/pull/1929",
+  "repo": "OCA/social",
+  "created": "2026-10-07",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][FIX] business_requirement: show the responsible user in the portal",
+  "url": "https://github.com/OCA/business-requirement/pull/407",
+  "repo": "OCA/business-requirement",
+  "created": "2026-10-06",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][FIX] business_requirement: make the state bar clickable",
+  "url": "https://github.com/OCA/business-requirement/pull/406",
+  "repo": "OCA/business-requirement",
+  "created": "2026-10-06",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][MIG] business_requirement_sale: Migration to 18.0",
+  "url": "https://github.com/OCA/business-requirement/pull/403",
+  "repo": "OCA/business-requirement",
+  "created": "2026-09-20",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][MIG] business_requirement_crm: Migration to 18.0",
+  "url": "https://github.com/OCA/business-requirement/pull/402",
+  "repo": "OCA/business-requirement",
+  "created": "2026-09-20",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][IMP] business_requirement_deliverable: refresh module and portal icons",
+  "url": "https://github.com/OCA/business-requirement/pull/401",
+  "repo": "OCA/business-requirement",
+  "created": "2026-09-16",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][FIX] auth_signup_verify_email: verify captcha on signup",
+  "url": "https://github.com/OCA/server-auth/pull/1007",
+  "repo": "OCA/server-auth",
+  "created": "2026-09-15",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[IMP] business_requirement: refresh module, menu and portal icons",
+  "url": "https://github.com/OCA/business-requirement/pull/400",
+  "repo": "OCA/business-requirement",
+  "created": "2026-09-14",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][ADD] business_requirement_rice: prioritise with RICE",
+  "url": "https://github.com/OCA/business-requirement/pull/399",
+  "repo": "OCA/business-requirement",
+  "created": "2026-09-14",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[ADD] barcode_stock: warehouse operations for the Barcode app",
+  "url": "https://github.com/OCA/barcode-interface/pull/2",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-09-14",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][MIG] business_requirement_deliverable: Migration to 18.0",
+  "url": "https://github.com/OCA/business-requirement/pull/398",
+  "repo": "OCA/business-requirement",
+  "created": "2026-09-10",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][MIG] business_requirement: Migration to 18.0",
+  "url": "https://github.com/OCA/business-requirement/pull/397",
+  "repo": "OCA/business-requirement",
+  "created": "2026-09-10",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[ADD] barcode_scanner: scanner-first Barcode app core",
+  "url": "https://github.com/OCA/barcode-interface/pull/1",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-09-09",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[16.0][MIG] sale_transaction_form_link: Migration to 16.0",
+  "url": "https://github.com/OCA/sale-workflow/pull/3341",
+  "repo": "OCA/sale-workflow",
+  "created": "2024-10-02",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[16.0][MIG] bc3 importer: Migration to 16.0",
+  "url": "https://github.com/OCA/vertical-construction/pull/37",
+  "repo": "OCA/vertical-construction",
+  "created": "2024-10-01",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[15.0][MIG] bc3_importer: Migration to 15.0",
+  "url": "https://github.com/OCA/vertical-construction/pull/36",
+  "repo": "OCA/vertical-construction",
+  "created": "2024-09-30",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[14.0][ADD] bc3_importer",
+  "url": "https://github.com/OCA/vertical-construction/pull/35",
+  "repo": "OCA/vertical-construction",
+  "created": "2024-05-08",
+  "state": "closed",
+  "merged": true
+ }
+]
