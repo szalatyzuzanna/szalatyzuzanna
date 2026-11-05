@@ -4,7 +4,7 @@
 
 <p align="center">
 <!-- forest:start -->
-<img src="./assets/forest.svg" width="100%" alt="Contribution forest: an isometric strip through the four seasons with one tree per active day of the last year. 1,209 contributions, 172 trees, the tallest on Sep 18 with 175.">
+<img src="./assets/forest.svg" width="100%" alt="Contribution forest: an isometric strip through the four seasons with one tree per active day of the last year. 1,216 contributions, 173 trees, the tallest on Sep 18 with 175.">
 <!-- forest:end -->
 </p>
 
@@ -29,7 +29,7 @@ I've been building on Odoo since version 12 and now ship on 18 and 19 at [@Binhe
 - 🟣 [**barcode_stock**: keep the locations of the line picked](https://github.com/OCA/barcode-interface/pull/18) <sub>OCA/barcode-interface · 18.0 · FIX · Oct 26</sub>
 - 🟣 [**barcode_stock**: open a move reserved against a lot with that lot chosen](https://github.com/OCA/barcode-interface/pull/17) <sub>OCA/barcode-interface · 18.0 · FIX · Oct 23</sub>
 - 🟣 [**barcode_stock_quality**: run a reception's quality inspections from the Barcode app](https://github.com/OCA/barcode-interface/pull/16) <sub>OCA/barcode-interface · 18.0 · ADD · Oct 19</sub>
-- 🟢 [**barcode_inventory**: count stock from the Barcode app](https://github.com/OCA/barcode-interface/pull/15) <sub>OCA/barcode-interface · 18.0 · ADD · Oct 16</sub>
+- 🟣 [**barcode_inventory**: count stock from the Barcode app](https://github.com/OCA/barcode-interface/pull/15) <sub>OCA/barcode-interface · 18.0 · ADD · Oct 16</sub>
 - 🟣 [**barcode_stock**: open the first group the list shows](https://github.com/OCA/barcode-interface/pull/14) <sub>OCA/barcode-interface · 18.0 · FIX · Oct 15</sub>
 - 🟣 [**barcode_stock_partner_delivery_zone**: group and filter operations by delivery zone](https://github.com/OCA/barcode-interface/pull/13) <sub>OCA/barcode-interface · 18.0 · ADD · Oct 15</sub>
 

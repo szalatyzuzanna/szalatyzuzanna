@@ -28,8 +28,8 @@
   "url": "https://github.com/OCA/barcode-interface/pull/15",
   "repo": "OCA/barcode-interface",
   "created": "2026-10-16",
-  "state": "open",
-  "merged": false
+  "state": "closed",
+  "merged": true
  },
  {
   "title": "[18.0][FIX] barcode_stock: open the first group the list shows",
