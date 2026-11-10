@@ -4,7 +4,7 @@
 
 <p align="center">
 <!-- forest:start -->
-<img src="./assets/forest.svg" width="100%" alt="Contribution forest: an isometric strip through the four seasons with one tree per active day of the last year. 1,199 contributions, 169 trees, the tallest on Sep 18 with 175.">
+<img src="./assets/forest.svg" width="100%" alt="Contribution forest: an isometric strip through the four seasons with one tree per active day of the last year. 1,202 contributions, 170 trees, the tallest on Sep 18 with 175.">
 <!-- forest:end -->
 </p>
 
@@ -26,12 +26,12 @@ I've been building on Odoo since version 12 and now ship on 18 and 19 at [@Binhe
 ## Latest pull requests
 
 <!-- pulls:start -->
+- 🟢 [**website_legal_page**: Migration to 19.0](https://github.com/OCA/website/pull/1244) <sub>OCA/website · 19.0 · MIG · Nov 10</sub>
+- 🟢 [**project_task_related**: Migration to 19.0](https://github.com/OCA/project/pull/1883) <sub>OCA/project · 19.0 · MIG · Nov 10</sub>
 - 🟣 [**barcode_stock**: keep the locations of the line picked](https://github.com/OCA/barcode-interface/pull/18) <sub>OCA/barcode-interface · 18.0 · FIX · Oct 26</sub>
 - 🟣 [**barcode_stock**: open a move reserved against a lot with that lot chosen](https://github.com/OCA/barcode-interface/pull/17) <sub>OCA/barcode-interface · 18.0 · FIX · Oct 23</sub>
 - 🟣 [**barcode_stock_quality**: run a reception's quality inspections from the Barcode app](https://github.com/OCA/barcode-interface/pull/16) <sub>OCA/barcode-interface · 18.0 · ADD · Oct 19</sub>
 - 🟣 [**barcode_inventory**: count stock from the Barcode app](https://github.com/OCA/barcode-interface/pull/15) <sub>OCA/barcode-interface · 18.0 · ADD · Oct 16</sub>
-- 🟣 [**barcode_stock**: open the first group the list shows](https://github.com/OCA/barcode-interface/pull/14) <sub>OCA/barcode-interface · 18.0 · FIX · Oct 15</sub>
-- 🟣 [**barcode_stock_partner_delivery_zone**: group and filter operations by delivery zone](https://github.com/OCA/barcode-interface/pull/13) <sub>OCA/barcode-interface · 18.0 · ADD · Oct 15</sub>
 
 <sub>🟣 merged · 🟢 open · ⚪ closed</sub>
 <!-- pulls:end -->
