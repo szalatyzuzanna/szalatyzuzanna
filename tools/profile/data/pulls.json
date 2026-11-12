@@ -1,5 +1,29 @@
 [
  {
+  "title": "[19.0][MIG] business_requirement: Migration to 19.0",
+  "url": "https://github.com/OCA/business-requirement/pull/410",
+  "repo": "OCA/business-requirement",
+  "created": "2026-11-12",
+  "state": "open",
+  "merged": false
+ },
+ {
+  "title": "[18.0][FIX] barcode_stock: round computed quantities",
+  "url": "https://github.com/OCA/barcode-interface/pull/28",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-11-11",
+  "state": "closed",
+  "merged": true
+ },
+ {
+  "title": "[18.0][FIX] barcode_stock: reject a label of another lot",
+  "url": "https://github.com/OCA/barcode-interface/pull/27",
+  "repo": "OCA/barcode-interface",
+  "created": "2026-11-11",
+  "state": "closed",
+  "merged": true
+ },
+ {
   "title": "[19.0][MIG] website_legal_page: Migration to 19.0",
   "url": "https://github.com/OCA/website/pull/1244",
   "repo": "OCA/website",
