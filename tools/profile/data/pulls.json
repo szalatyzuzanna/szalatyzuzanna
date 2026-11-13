@@ -1,5 +1,21 @@
 [
  {
+  "title": "[19.0][MIG] business_requirement_deliverable: Migration to 19.0",
+  "url": "https://github.com/OCA/business-requirement/pull/412",
+  "repo": "OCA/business-requirement",
+  "created": "2026-11-13",
+  "state": "open",
+  "merged": false
+ },
+ {
+  "title": "[19.0][UPD] Update oca-addons-repo-template to v1.49",
+  "url": "https://github.com/OCA/business-requirement/pull/411",
+  "repo": "OCA/business-requirement",
+  "created": "2026-11-12",
+  "state": "closed",
+  "merged": true
+ },
+ {
   "title": "[19.0][MIG] business_requirement: Migration to 19.0",
   "url": "https://github.com/OCA/business-requirement/pull/410",
   "repo": "OCA/business-requirement",
