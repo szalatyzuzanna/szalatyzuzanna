@@ -1,9 +1,9 @@
 {
- "total": 1229,
- "active": 174,
+ "total": 1191,
+ "active": 168,
  "best_day": "2026-09-18",
  "best": 175,
- "longest": 8,
+ "longest": 6,
  "pulls": 35,
  "merged": 31
 }
