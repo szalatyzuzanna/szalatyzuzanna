@@ -4,7 +4,7 @@
 
 <p align="center">
 <!-- forest:start -->
-<img src="./assets/forest.svg" width="100%" alt="Contribution forest: an isometric strip through the four seasons with one tree per active day of the last year. 1,191 contributions, 168 trees, the tallest on Sep 18 with 175.">
+<img src="./assets/forest.svg" width="100%" alt="Contribution forest: an isometric strip through the four seasons with one tree per active day of the last year. 1,193 contributions, 169 trees, the tallest on Sep 18 with 175.">
 <!-- forest:end -->
 </p>
 
@@ -26,12 +26,12 @@ I've been building on Odoo since version 12 and now ship on 18 and 19 at [@Binhe
 ## Latest pull requests
 
 <!-- pulls:start -->
+- 🟢 [**business_requirement_rice**: Migration to 19.0](https://github.com/OCA/business-requirement/pull/414) <sub>OCA/business-requirement · 19.0 · MIG · Nov 16</sub>
+- 🟢 [**business_requirement_crm**: Migration to 19.0](https://github.com/OCA/business-requirement/pull/413) <sub>OCA/business-requirement · 19.0 · MIG · Nov 16</sub>
 - 🟢 [**business_requirement_deliverable**: Migration to 19.0](https://github.com/OCA/business-requirement/pull/412) <sub>OCA/business-requirement · 19.0 · MIG · Nov 13</sub>
 - 🟣 [Update oca-addons-repo-template to v1.49](https://github.com/OCA/business-requirement/pull/411) <sub>OCA/business-requirement · 19.0 · UPD · Nov 12</sub>
 - 🟢 [**business_requirement**: Migration to 19.0](https://github.com/OCA/business-requirement/pull/410) <sub>OCA/business-requirement · 19.0 · MIG · Nov 12</sub>
 - 🟣 [**barcode_stock**: round computed quantities](https://github.com/OCA/barcode-interface/pull/28) <sub>OCA/barcode-interface · 18.0 · FIX · Nov 11</sub>
-- 🟣 [**barcode_stock**: reject a label of another lot](https://github.com/OCA/barcode-interface/pull/27) <sub>OCA/barcode-interface · 18.0 · FIX · Nov 11</sub>
-- 🟢 [**website_legal_page**: Migration to 19.0](https://github.com/OCA/website/pull/1244) <sub>OCA/website · 19.0 · MIG · Nov 10</sub>
 
 <sub>🟣 merged · 🟢 open · ⚪ closed</sub>
 <!-- pulls:end -->
